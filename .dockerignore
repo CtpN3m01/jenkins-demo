@@ -1,0 +1,8 @@
+node_modules
+.next
+jenkins_home
+.git
+npm-debug.log*
+Dockerfile.jenkins
+docker-compose.yml
+README.md
